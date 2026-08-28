@@ -5,7 +5,7 @@ Software Engineer and Web Developer
 -----------------------------------
 
 * 🌍  I'm based in Horst aan de Maas, The Netherlands
-* ✉️  You can contact me at [info@wellesweb.net](mailto:info@wellesweb.net)
+* ✉️  You can contact me at [info@wellesweb.nl](mailto:info@wellesweb.nl)
 
 ## 📊 GitHub Stats:
 <div align="center">
